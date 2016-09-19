@@ -46,7 +46,7 @@ class: center, middle
 
 class: center, middle
 
-## Do you use *3D printing and augmented reality* to solve problems?
+## Do you use *rapid prototyping* to solve problems?
 
 ---
 
@@ -58,19 +58,19 @@ class: center, middle
 
 class: center, middle
 
-## Do you *measure your solutions* (health, safety, welfare, efficiency, sustainability, operational usage etc.) and learn from the data you acquire?
-
----
-
-class: center, middle
-
-## Do you practice *continuous improvement*?
+## Do you *measure your solutions* and learn from the data you acquire?
 
 ---
 
 class: center, middle
 
 ## Do you treat your data as an asset and *secure it* accordingly?
+
+---
+
+class: center, middle
+
+## Do you practice *continuous improvement*?
 
 ---
 
