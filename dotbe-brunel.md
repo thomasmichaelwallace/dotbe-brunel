@@ -4,9 +4,13 @@ class: center, middle
 
 ---
 
+.center[![Center-aligned image](joel.png)]
+
+---
+
 class: center, middle
 
-## Do you *develop your own tools* and have internal API's for all of your systems?
+## Do you share and *contribute back to* open industry standards and tools?
 
 ---
 
@@ -36,7 +40,7 @@ class: center, middle
 
 class: center, middle
 
-## Do you share and *contribute back to* open industry standards and tools?
+## Do you *develop your own tools* and have internal API's for all of your systems?
 
 ---
 
