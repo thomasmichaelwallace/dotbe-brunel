@@ -4,23 +4,47 @@
     <title>Title</title>
     <meta charset="utf-8">
     <style>
-      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
-      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
-      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+      @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400';
 
-      body { font-family: 'Droid Serif'; }
-      h1, h2, h3 {
-        font-family: 'Yanone Kaffeesatz';
-        font-weight: normal;
+      body {
+        font-family: 'Source Sans Pro', sans-serif;
+        font-weight: 300;
       }
-      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      
+      h1, h2, h3 {
+        font-weight: 300;
+      }
+
+      .remark-container {
+        background-color: #333;
+      }
+
+      .remark-slide-scaler {
+        box-shadow: none;
+      }
+
+      .remark-slide-content {
+        background-color: #333;
+        color: white;
+      }
+
+      .remark-slide-content em {
+        font-style: normal;
+        color: white;
+        background-color: #ff4b33;
+        display: inline-block;
+        padding: 5px;
+      }      
     </style>
   </head>
   <body>
     <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
     </script>
     <script>
-      var slideshow = remark.create({ sourceUrl: 'dotbe-brunel.md'});
+      var slideshow = remark.create({
+        ratio: '16:9',
+        sourceUrl: 'dotbe-brunel.md'
+      });
     </script>
   </body>
 </html>
