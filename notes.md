@@ -42,6 +42,7 @@ What environment do we expect :=
 
 __Will this company give me a way to shape the industry?__
 
+- 
 - Data Scientists are flocking to LinkedIn; 
 - not because they're desperate to work out how to remove recruiters from all of our lives
 - but because LinkedIn have built a reputation for leading the development of and sharing the *de facto* tools for Big Data.
@@ -50,6 +51,7 @@ __Will this company give me a way to shape the industry?__
 
 __How efficient are you?__
 
+- "
 - Your one task is to deliver.
 - If you can't do this continuously then you're content to be wasting time.
 - McDonald's can manage this; why not us.
@@ -58,6 +60,7 @@ __How efficient are you?__
 
 __How good are you at collaborating?__
 
+- "We need everyone together for those 'water cooler moments'" :(
 - The industry is remote.
 - AEC uses some of the most disparate teams out there.
 - If you haven't worked out how to do this effectively with people in an environment you control,
@@ -67,6 +70,7 @@ __How good are you at collaborating?__
 
 __Will you help me be the best me I can be?__
 
+- "Project email is impossible" :(
 - People are expensive,
 - tools are cheap.
 - If I think something has even a smallest chance of making me do something better; training, software, conferences
@@ -76,6 +80,7 @@ __Will you help me be the best me I can be?__
 
 __Do you own your creations?__
 
+- "Do it in Revit first- then export to IFC" :(
 - Proprietary formats are the enemy of insights and collaboration;
 - if you're using them then someone else is already gatekeeping the innovations and worth you can dervive from them.
 
@@ -83,13 +88,16 @@ __Do you own your creations?__
 
 __Are you an inovator?__
 
+- "Oh I think Marketing have that data" :(
 - Someone who really wants to drive change doesn't want to just be a tool user
-- they want to be able to build new tools so they can do the things people haven't done before.
+- they want to be able to build new tools so they can 
+do the things people haven't done before.
 
 ## Do you use *rapid prototyping* to solve problems?
 
 __Are you sitting on the bleeding edge?__
 
+- "
 - Work in a tangible space
 - solving problems that have already been solved is not enough.
 - Rapid prototyping- VR- 3D printing; working through them- saving time.
@@ -98,6 +106,7 @@ __Are you sitting on the bleeding edge?__
 
 __Have you worked out how to iterate effectively?__
 
+- "Oh, you need spreadsheet version 2008-tmw-1" :(
 - Have you got the foundations in place so we can all work together on the same thing?
 - So that I can make small experiements offline from the designs, and them come back to them later?
 
@@ -105,6 +114,7 @@ __Have you worked out how to iterate effectively?__
 
 __Are you evolving?__
 
+- "I've never been back." :(
 - I bet you no one can tell me how utilised your last structure was? How well did your last road work? How stupid is your smart building?
 - If you can't tell me the answer then you can't tell me what you need to do better next time?
 
@@ -112,6 +122,7 @@ __Are you evolving?__
 
 __Do you understand your product?__
 
+- "I'll just e-mail you the password." :(
 - Data is so important- to you, and your client.
 - Have you, for example, put your BIM model including all the phyiscal security systems and location of the critical fiber optic lines on the cover of NCE magazine lately? (true story)
 
@@ -119,6 +130,7 @@ __Do you understand your product?__
 
 __Are you already content with me?__
 
+- "We don't have the time to try that." :(
 - If you don't think there's anything left to learn, then how can we do something new together? 
 - Companies that do this well- where everyone sets an esoteric learning goal and reports back; as well as trying new styles of working and operating.
 
@@ -126,6 +138,7 @@ __Are you already content with me?__
 
 __Is your supply chain important to you?__
 
+- "I'm not sure how they'd do that." :(
 - A great relationship with your supply chain is essential;
 - If you don't realise that innovations can come from anywhere, then you haven't worked out the truth.
 
